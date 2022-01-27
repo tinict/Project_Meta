@@ -14,4 +14,7 @@
     .info, .cards-wrapper{
         display: none;
     }
+    .sticky-header .logo-web a{
+        padding: 0 82px;
+    }
 }
