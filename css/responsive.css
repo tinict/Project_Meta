@@ -1,0 +1,20 @@
+/* tablet */
+@media(min-width: 740px) and (max-width: 1023px){
+
+}
+
+/* Mobile */
+@media(max-width: 740px){
+    .headertopbar{
+        display: none;
+    }
+    .container-stickyheader .header-nav{
+        display: none;
+    }
+    body{
+        width: min-content;
+    }
+    .info, .cards-wrapper{
+        display: none;
+    }
+}
