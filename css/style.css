@@ -211,6 +211,10 @@
       padding: 0 3px;
   }
 
+.K2-grid li:hover{
+  background-color: #ddd;
+}
+
 /* --------- */
 
 @import url('https://fonts.googleapis.com/css?family=Heebo:400,700|Open+Sans:400,700');
