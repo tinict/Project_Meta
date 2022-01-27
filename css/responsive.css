@@ -11,9 +11,6 @@
     .container-stickyheader .header-nav{
         display: none;
     }
-    body{
-        width: min-content;
-    }
     .info, .cards-wrapper{
         display: none;
     }
