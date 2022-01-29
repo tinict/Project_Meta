@@ -355,7 +355,6 @@ a {
 .card:hover {
   color: var(--color);
 }
-
 .card:hover:before, .card:hover:after {
   transform: scale(1);
 }
@@ -427,7 +426,7 @@ a {
 .g-footer{
     height: 50px;
     line-height: 50px;
-    background-color: black;
+    background-color: #1c1d31;
     color: #ffffff;
     text-align: center;
 }
